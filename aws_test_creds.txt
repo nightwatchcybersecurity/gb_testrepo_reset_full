@@ -1,0 +1,4 @@
+[default]
+aws_access_key_id = AKIASP2TPHJS42ATEST
+aws_secret_access_key = 40399he3mMpqJZ1quzBtf+ayqSvunQc03aTest
+region = us-east-1
